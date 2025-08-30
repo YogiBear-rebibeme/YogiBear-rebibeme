@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YogiBear-rebibeme
+- 👋 Hi, I’m @Yogya Yadav
 - 👀 I’m interested in ... Coding and game developement as well as designing
 - 🌱 I’m currently learning ... C, C++ and self learning blender
 - 💞️ I’m looking to collaborate on ... game developement
